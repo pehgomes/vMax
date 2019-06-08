@@ -1,4 +1,4 @@
 # vMax
-Volume Máximo a ser aplicado em uma caixa
-  * Cria-se a instância de 'Calculador'
-  * Chamar método 'calcudlarVolumeMaximoCaixa' passando o comprimento e a largura.
+Maximum Volume to be applied in a carton
+  * The 'Calculator' instance is created
+  * Call method 'calcudlarVolumeMaximoCaixa' by passing the length and width.
